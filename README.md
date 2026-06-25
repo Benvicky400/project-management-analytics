@@ -14,7 +14,7 @@ This dashboard is a clean, centralized view built directly in Excel. It bridges 
 ## 🗂️ Project Structure
 
 * `project-management-analytics.xlsx` - The core workbook containing the live dashboard interface, lookup tables, and interactive visual data.
-* `assets/` - Repository image files and dashboard layout previews for quick viewing.
+* `project performance` - Repository image files and dashboard layout previews for quick viewing.
 
 ## 🛠️ Thoughts on Building This
 When designing the layout, my main goal was scannability. I positioned the critical KPIs right at the top so anyone opening the sheet gets an instant temperature check. The bottom half breaks the data down by project type and priority, relying heavily on conditional formatting and native stacked column charts to give depth to the raw data rows.
